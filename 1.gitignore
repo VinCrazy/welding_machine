@@ -1,0 +1,26 @@
+# KiCad
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups/
+*.net
+*.pro.user
+*.cache
+*.lib
+*.dcm
+*.zip
+
+# Ардуино
+*.elf
+*.hex
+*.eep
+
+# Временные файлы
+*.tmp
+*~
+.DS_Store
+Thumbs.db
+
+# Папки сборки
+build/
+gerbers/

@@ -1,0 +1,14 @@
+{
+  "kicad_project": {
+    "version": 20231120,
+    "host": "kicad 7.0.0",
+    "board": {
+      "resolution": 1000000,
+      "unit": "millimeter"
+    },
+    "project": {
+      "name": "welding_machine",
+      "uuid": "5c8f3c71-5c8f-3c71-5c8f-3c715c8f3c71"
+    }
+  }
+}
